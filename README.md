@@ -20,7 +20,7 @@ This project aim to create a feature specially for LinkedIn's end-users, our pro
 ### Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/your-username/LinkedInCareerCompass.git
+git clone https://github.com/avishagnevo/LinkedInCareerCompass.git
 cd LinkedInCareerCompass
 pip install -r requirements.txt
 ```
