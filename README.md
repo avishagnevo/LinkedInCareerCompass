@@ -26,4 +26,4 @@ pip install -r requirements.txt
 ```
 
 ### Usage
-Within the `src/` directory, the Jupyter Notebooks can be run in sequence to replicate our data processing and analysis pipeline and result datasets.
+Within the `src/` directory, the Jupyter Notebooks can be run in sequence to replicate our data processing and analysis pipeline and result datasets, using the files within 'data/' directory.
